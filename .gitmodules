@@ -1,0 +1,3 @@
+[submodule "neurograph-repo"]
+	path = neurograph-repo
+	url = https://github.com/vivarium-brain/neurograph
